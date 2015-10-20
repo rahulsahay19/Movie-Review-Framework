@@ -170,6 +170,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Data\MovieReviewDbContext.cs" />
     <Compile Include="Domain\ApplicationUser.cs" />
+    <Compile Include="Domain\LogAction.cs" />
     <Compile Include="Domain\Movie.cs" />
     <Compile Include="Domain\MovieReview.cs" />
     <Compile Include="Global.asax.cs">
